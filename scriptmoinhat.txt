@@ -7,7 +7,7 @@ do
     TeleportService = game:GetService("TeleportService")
     TW = game:GetService("TweenService")
     Lighting = game:GetService("Lighting")
-    Enemies = workspace.Enemies
+    Enemies = workspace.EEnimes
     vim1 = game:GetService("VirtualInputManager")
     vim2 = game:GetService("VirtualUser")
     TeamSelf = plr.Team
